@@ -1,4 +1,5 @@
-I am playing fgo.
+the net is good.
+I am not playing fgo.
 I would run tomorrow.
 classmates=['Apple','apple','Cook']
 classmates.append('Dave')
