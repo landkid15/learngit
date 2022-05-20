@@ -1,3 +1,4 @@
+I am playing fgo.
 I would run tomorrow.
 classmates=['Apple','apple','Cook']
 classmates.append('Dave')
