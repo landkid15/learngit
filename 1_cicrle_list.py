@@ -1,4 +1,4 @@
-classmates=['Amy','Bill','Cook']
+classmates=['Apple','apple','Cook']
 classmates.append('Dave')
 classmates.insert(1,'Bruce')
 classmates.pop(2)
