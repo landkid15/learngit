@@ -1,3 +1,4 @@
+I would run tomorrow.
 classmates=['Apple','apple','Cook']
 classmates.append('Dave')
 classmates.insert(1,'Bruce')
